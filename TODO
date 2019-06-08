@@ -1,0 +1,40 @@
+
+NodeJS:
+  Introduction:
+    ✔ What is nodejs @done(19-06-08 13:44)
+    ✔ Single thread and event driven language and run time @done(19-06-08 13:44)
+    ✔ Nodejs depth - v8 , headless browser, event loop @done(19-06-08 13:44)
+    ✔ All about npm @done(19-06-08 13:44)
+    ✔ Why nodejs @done(19-06-08 13:44)
+    ✔ Where to use @done(19-06-08 13:44)
+    ✔ Where not to use @done(19-06-08 13:44)
+
+  Install:
+    ✔ Node + npm locally globally and set environment paths @done(19-06-08 13:44)
+
+  Ecma Script:
+    ✔ What is ES @done(19-06-08 13:45)
+    ✔ Asynchronous vs Synchronous @done(19-06-08 13:45)
+    ✔ Class, Template strings, Object literals, Promise, await/async, Hoisting and Closure @done(19-06-08 13:45)
+
+  Express:
+    ✔ What is express @done(19-06-08 14:05)
+    ✔ Install express @done(19-06-08 14:05)
+    ✔ create basic API @done(19-06-08 14:29)
+
+  REST API:
+    ✔ What is REST @done(19-06-08 14:50)
+    ✔ Available methods @done(19-06-08 14:50)
+    ✔ Basic API creation with express @done(19-06-08 14:50)
+
+  MVC pattern:
+    ✔ Creating strong and extendable MVC pattern for node app @done(19-06-08 16:21)
+
+  Unit testing:
+    ✔ Introduction for TDD @done(19-06-08 17:10)
+    ✔ Create sample unit testing with mocha, chai @done(19-06-08 17:10)
+
+  Play Ground:
+    ✔ Calculator app for understanding routes @done(19-06-08 17:10)
+    ✔ URL shortner with cleanuri.com (Public API) to understand about making requests @done(19-06-08 17:34)
+    ✔ Get whether details from metaweather for handling multiple requests (Their Task for week( Send City -> get ID -> make another request with woid -> parse sun rise and set timing) @done(19-06-08 17:38)

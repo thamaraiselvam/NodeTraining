@@ -1,0 +1,93 @@
+1. What is nodejs
+    developed by Ryan Dahl in 2009, server-side scripting, its framework
+2.Single thread
+    Difference between Process, Processor, Thread
+3.event driven (CB)
+4. JS and Run time
+    console and REPL on terminal
+5.Why nodejs
+    The single thread so fasterrerrrr...
+6.Nodejs depth - v8, event loop
+    compiler and what is event loop - http://latentflip.com/loupe/
+7.All about npm
+    biggest package manager repo
+8.Where to use
+    less CPU  intense
+    high availability
+    non-blocking
+    easy and faster to build apps
+    easily scalable
+9.Where not to use
+    heavy CPU intense jobs like video merge, image processing..etc
+    give example why nodejs not suitable for this
+
+--------------------------------------------------------
+1. Node + npm locally globally and set environment paths
+    Use MSI installer since windows go for LTS (WTH is that) 30 months
+
+Welcome to Nodejs Wordllllll.
+
+Start npm init
+what is package.json
+install nodemon in middle of next session
+--------------------------------------------------------------
+1. What is ES
+    v8, spider monkey..etc
+    till es10 use caniuse.com to check what can we use or nodejs website - https://node.green/
+2.Asynchronous vs Synchronous
+  Synchronous
+    getKey()
+    OpenDoor()
+    CloseDoor()
+    putKey()
+  Asynchronous
+    wearShirt()
+    getMobile()
+    findKey()
+    callFriend()
+3.
+    - Class(syntatic sugar)
+    - Template strings(``)
+    - Object literals{var}=object
+    - Promise(cake promise)
+    - await/async
+    - Hoisting(func, var dec, definition)
+    - Closure(child to root)
+    - arrow functions
+    - Array Fucntions - map, reduce, filter, forEach, for where to use.
+
+----------------------------------------------------------------------
+
+What is express
+    the framework, easy development, made the top of the HTTP package of node
+Install express
+create basic GET Route -> Use postman
+
+---------------------------------------------------------------------
+
+What is REST
+Available methods
+    get,post,put,delete,option(socket)
+    when to use what
+    basic status codes and their response
+Basic API creation with express
+    get parse params ,post get data from body
+
+------------------------------------------------------------------------
+MVC
+
+Controller
+Routes
+Config
+Models - see on mongodb session
+Utils
+Server.js
+
+------------------------------------------------------------------
+
+Introduction for TDD
+    what is TDD
+    why it is necessary
+Create sample unit testing with mocha, chai
+
+----------------------------------------------------------------------
